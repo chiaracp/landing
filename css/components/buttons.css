@@ -1,0 +1,27 @@
+.btn-primary {
+  display: inline-block;
+  background-color: #CE5374;
+  padding: 16px 36px;
+  border-radius: 20px;
+  color: white;
+  transition: all 500ms;
+}
+
+.btn-primary:hover {
+  background-color: #9C0D38;
+  color: #F6EDFC
+}
+
+.btn-second {
+  display: inline-block;
+  background-color: #ff8aa9;
+  padding: 16px 36px;
+  border-radius: 20px;
+  color: white;
+  transition: all 500ms;
+}
+
+.btn-second:hover {
+  background-color: #9C0D38;
+  color: #F6EDFC
+}
